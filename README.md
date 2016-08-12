@@ -32,13 +32,13 @@ ppsm-us-design-standards/
 └── guides/
 ```
 
-## Making Changes/ Contributing
+## Making Changes and Contributing
 
 We tend to update this as changes are made to the `staging` branch of the Draft U.S. Web Design Standards. The `staging` branch is the bleeding edge of development.
 
 For complete instructions on how to contribute code, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Contact/ Support
+## Contact and Support
 
 This project is tailored specifically for a HIPAA-compliant project. No support will be provided for this project. We will reply to all Issues posted to this project and work to resolve them.
 
