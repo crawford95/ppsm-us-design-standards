@@ -2,7 +2,7 @@
 
 The [Draft U.S. Web Design Standards](https://standards.usa.gov) include a library of open source UI components and a visual style guide for U.S. federal government websites.
 
-This project is takes the [web-design-standards/staging provides](https://github.com/18F/web-design-standards/tree/18f-pages-staging) branch of the Draft U.S. Web Design Standards and alters it so that healthcare professionals can easily use it on their Patient Portal powered by Surescripts LLC's [Patient Portal with Secure Messaging](http://surescripts.com/products-and-services/patient-portal-with-secure-messaging) product.
+This project is takes the `web-design-standards/staging` branch ([link](https://github.com/18F/web-design-standards/tree/18f-pages-staging))of the Draft U.S. Web Design Standards and alters it so that healthcare professionals can easily use it on their Patient Portal powered by Surescripts LLC's [Patient Portal with Secure Messaging](http://surescripts.com/products-and-services/patient-portal-with-secure-messaging) product.
 
 It is a very barebones version of the Draft U.S. Web Design Standards. We are limited by the CSS selectors that PPSM (my acronym, not SureScripts) supports. For most (almost all) healthcare agencies, their portal is hosted by off-site so they are limited to what they can alter.
 
