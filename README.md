@@ -25,9 +25,10 @@ The project can be downloaded as a `.zip` file and then you'll just need to foll
 ```
 ppsm-us-design-standards/
 ├── contents/
+│   ├── css/
 │   ├── fonts/
 │   ├── img/
-│   ├── stylesheets/
+│   ├── js/
 └── guides/
 ```
 
