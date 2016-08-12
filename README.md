@@ -1,12 +1,12 @@
-# About this Project
+# About This Project
 
 The [Draft U.S. Web Design Standards](https://standards.usa.gov) include a library of open source UI components and a visual style guide for U.S. federal government websites.
 
-This project is takes the `web-design-standards/staging` branch ([link](https://github.com/18F/web-design-standards/tree/18f-pages-staging))of the Draft U.S. Web Design Standards and alters it so that healthcare professionals can easily use it on their Patient Portal powered by Surescripts LLC's [Patient Portal with Secure Messaging](http://surescripts.com/products-and-services/patient-portal-with-secure-messaging) product.
+This project is takes the `staging` branch ([link](https://github.com/18F/web-design-standards/tree/18f-pages-staging))  of the Draft U.S. Web Design Standards and alters it so that healthcare professionals can easily use it on their Patient Portal powered by Surescripts LLC's [Patient Portal with Secure Messaging](http://surescripts.com/products-and-services/patient-portal-with-secure-messaging) product.
 
-It is a very barebones version of the Draft U.S. Web Design Standards. We are limited by the CSS selectors that PPSM (my acronym, not SureScripts) supports. For most (almost all) healthcare agencies, their portal is hosted by off-site so they are limited to what they can alter.
+It is a very barebones version of the Draft U.S. Web Design Standards. We are limited by the CSS selectors that PPSM (our acronym, not SureScripts) supports. For most (almost all) healthcare agencies, their portal is hosted by off-site so they are limited to what they can alter.
 
-This is more-or-less a guide to help healthcare professionals theme their installation of SMPP in an accessible and screen reader-friendly manner.
+This is more-or-less a guide to help healthcare professionals theme their installation of PPSM in an accessible and screen reader-friendly manner.
 
 ## Why Use This Project
 
@@ -14,7 +14,7 @@ The Draft U.S. Web Design Standards provides an amazing color palette and allows
 
 This project was created for use on the [PDR Clinics](http://portal.pdrclinics.com) Patient Portal. Like the Draft U.S. Web Design Standards, this project is licensed under the Public Domain.
 
-## Getting started
+## Getting Started
 
 The application of this project to your installation of PPSM includes uploading images, applying CSS in the Appearance area, and hosting fonts off-site someplace. Follow the instructions located in `guides` to begin.
 
@@ -44,7 +44,7 @@ This project is tailored specifically for a HIPAA-compliant project. No support 
 
 The project maintainers, contributors, and sponsors are not responsible for any issues that arise from trying to apply and/ or maintain this project on your website.
 
-## Licenses and attribution
+## Licenses and Attribution
 
 Like the Draft U.S. Web Design Standards project, this project is licensed under the [public domain](LICENSE.md).
 
