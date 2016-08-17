@@ -22,7 +22,7 @@ ppsm-us-design-standards/
 
 Most healthcare agencies do not host their installation of Patient Portal with Secure Message. For these facilities (which is almost everyone), the files included in the `fonts` and `js` folders will need to be hosted by a webhost. Unfortunately, the files in these folders cannot be uploaded to PPSM and then called upon by our stylesheet from there.
 
-Our suggestion is to go through a [CDN](https://en.wikipedia.org/wiki/Content_delivery_network), web host, or host the files on a [VPS](https://en.wikipedia.org/wiki/Virtual_private_server) like [DigitalOcean](https://www.digitalocean.com/).
+Our suggestion is to go through a [CDN](https://en.wikipedia.org/wiki/Content_delivery_network), or host the files on a web host or [VPS](https://en.wikipedia.org/wiki/Virtual_private_server) like [DigitalOcean](https://www.digitalocean.com/). Remember: only use these for media hosting.
 
 ## Theming the Portal Using CSS
 
